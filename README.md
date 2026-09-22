@@ -1,29 +1,63 @@
-# Samoa 2023 Food Away from Home (FAFH) Experiment
+# Samoa 2023 Food Away From Home (FAFH) Experiment
 
-This repository provides the survey instruments, methodological documentation, report and supporting materials developed for the **Samoa 2023 Food Away from Home (FAFH) Experiment**.
+This repository provides the instruments, methodological resources, report and dissemination materials from the **Samoa 2023 Food Away From Home (FAFH) Experiment**.
 
-The experiment was designed to improve the measurement of food consumed away from home in household surveys and to generate evidence on alternative approaches for collecting detailed information on FAFH consumption.
+The experiment was led by the **Samoa Bureau of Statistics (SBS)** with technical assistance from the **Pacific Community (SPC)** and was implemented alongside the Samoa 2023 Household Income and Expenditure Survey (HIES).
 
-The materials are made publicly available to support methodological learning and the adaptation of improved FAFH measurement approaches by National Statistical Offices, researchers and organisations working on household consumption, food security, nutrition and food systems statistics.
-
----
-
-## About the experiment
-
-Food consumed away from home is an increasingly important component of food consumption but can be difficult to measure accurately in household surveys.
-
-Conventional Household Income and Expenditure Surveys (HIES) typically collect information on expenditure on food consumed away from home. However, they may provide limited information on the individual foods and beverages consumed, portion sizes, quantities and nutritional composition. This creates challenges when household survey data are also used to estimate food consumption, dietary energy and nutrient availability.
-
-The **Samoa 2023 FAFH Experiment** investigated approaches for improving the collection and estimation of food consumed away from home. The experiment was implemented in conjunction with the **Samoa 2023 Household Income and Expenditure Survey (HIES)** and included individual FAFH diaries and supporting approaches for identifying foods, estimating portions, and compiling recipe and food information.
+The experiment investigated how food prepared and consumed away from home can be better measured in household surveys, with a particular focus on improving estimates of dietary energy consumption derived from HIES data.
 
 ---
 
-## Access the materials
+## Why food away from home matters
+
+Food Away From Home (FAFH) refers to food and beverages acquired and consumed away from the household dwelling, including food consumed at restaurants and cafés, workplaces, schools, churches, the homes of friends or relatives, and feasting events.
+
+Measuring FAFH is challenging in household surveys. HIES can collect information on the number and cost of meals consumed away from home, but usually do not collect the detailed food quantities and composition needed to directly estimate dietary energy consumption.
+
+This matters because HIES food consumption data are used to inform important statistics on **poverty, food security and undernourishment**.
+
+The Samoa experiment was designed to help address this methodological gap.
+
+---
+
+## Objectives
+
+The experiment had two main objectives:
+
+1. **Test the indirect approach used to estimate dietary energy consumed away from home (DEC_AFH)** and assess the difference between the cost per calorie of food consumed at home and away from home.
+
+2. **Develop and test a more direct approach to measuring FAFH consumption**, collecting information on the foods and quantities consumed away from home through individual diaries supported by visual aids for portion-size estimation.
+
+---
+
+## Experimental design
+
+The experiment was implemented concurrently with the **Samoa 2023 HIES** from March to December 2023.
+
+The design combined four survey components:
+
+- **Module 1 – Socio-economic characteristics**  
+  Information on household members, including demographic, economic and geographic characteristics.
+
+- **Module 2 – In-house food consumption**  
+  A 7-day recall module collecting household food consumption and expenditure, used to estimate dietary energy consumed at home and the cost per calorie.
+
+- **Module 3 – Food away from home: 7-day recall**  
+  The HIES module collecting, for each household member, the number of meals consumed away from home and associated expenditure by meal event.
+
+- **Module 4 – Food away from home: 7-day diary**  
+  The experimental benchmark, collecting detailed information on the foods and beverages consumed away from home by individual household members, supported by a specially developed food portion quantification manual.
+
+The experiment sample included **422 participating households**, with the analysis ultimately drawing on **7,532 recorded food consumption events from 1,162 individuals in 363 households**.
+
+---
+
+## Repository contents
 
 ### Survey instruments
 
 - **Samoa%202023%20HIES%20instrument.pdf**  
-  The questionnaire for the Samoa 2023 Household Income and Expenditure Survey, including the survey approach used to collect information on food consumption and expenditure.
+  Questionnaire used for the Samoa 2023 Household Income and Expenditure Survey.
 
 - **Samoa%20FAFH%20diary_english.pdf**  
   English-language individual diary used to record food and beverages consumed away from home.
@@ -32,123 +66,152 @@ The **Samoa 2023 FAFH Experiment** investigated approaches for improving the col
   Samoan-language version of the individual FAFH diary.
 
 - **Samoa%20FAFH%20crowd%20sourcing%20instrument.pdf**  
-  Instrument used to collect supporting information on foods, meals and portion sizes.
+  Instrument developed for the "Snap Your Meal / Snap Your Meaai" crowdsourcing campaign used to collect information on meals consumed away from home.
 
 ### Fieldwork and methodological resources
 
 - **Samoa%20FAFH%20Enumerator%20manual.docx**  
-  Guidance for enumerators implementing the FAFH experiment.
+  Guidance for field staff responsible for implementing the FAFH experiment.
 
 - **Samoan%20Food%20Portion%20Quantification%20Manual.pdf**  
-  Reference material supporting the estimation and standardisation of food portion quantities.
+  Visual reference manual developed to support respondents in identifying foods and estimating portion sizes.
 
-- **FAFH photo and recipe database protocol**  
-  Protocol used to guide the development of the supporting photo and recipe database.
+- **Samoa%20FAFH%20photo%20and%20recipe%20database%20protocol.docx**  
+  Protocol used to develop the supporting food photograph, portion and recipe information.
 
-- **FAFH Experiment Expert Group TORs**  
-  Terms of Reference for the Expert Group established to provide technical guidance for the experiment.
+- **Samoa%20FAFH%20experiment%20Expert%20Group%20TORs.docx**  
+  Terms of Reference for the Expert Group convened to provide technical input to the design of the experiment.
 
 ### Report
 
 - **Samoa%20FAFH%20experiment%20report.pdf**  
-  Report documenting the experiment, its methodology, findings and lessons for the measurement of food away from home.
+  Full report documenting the design, implementation, results and lessons learned from the experiment.
 
 ---
 
-## Experimental approach
+## Developing the food portion quantification manual
 
-The Samoa FAFH Experiment brought together several complementary approaches to improve the measurement of food consumed away from home:
+A major component of the experiment was the development of a sampling frame of foods and meals commonly consumed away from home in Samoa.
 
-### 1. Household survey measurement
+Five complementary approaches were used:
 
-The Samoa 2023 HIES collected household-level information on food acquisition, consumption and expenditure, including expenditure associated with food consumed away from home.
+1. **web searches** of food establishments, menus and recipes;
+2. analysis of foods recorded in the **2018 Samoa HIES**;
+3. **focus group discussions** with food vendors, consumers, government and other stakeholders;
+4. the **"Snap Your Meal / Snap Your Meaai" crowdsourcing campaign**; and
+5. **physical enumeration of food vendors**, including informal outlets and establishments in Savai'i.
 
-### 2. Individual FAFH diaries
+This process identified foods and meals for detailed preparation, weighing, photography and nutrient composition analysis.
 
-Individual diaries were used to record food and beverage consumption away from home in greater detail, providing information beyond that normally captured through household-level expenditure questions.
-
-### 3. Food identification and portion quantification
-
-Supporting instruments and reference materials were used to improve the identification of foods and estimation of the quantities consumed.
-
-### 4. Photo and recipe information
-
-Additional food, recipe and portion information supported the conversion of reported foods and meals into standardised quantities suitable for food consumption and nutrition analysis.
-
-Together, these components provided an opportunity to assess alternative approaches to FAFH measurement and their potential application in household survey programmes.
+The resulting **Samoan Food Portion Quantification Manual** contains **82 foods represented by 420 food portions, together with 27 household measurement units**. It was used alongside the FAFH diary to support the estimation of quantities consumed.
 
 ---
 
-## Intended users
+## Key findings
 
-The resources in this repository may be useful for:
+The experiment provides evidence that the cost of obtaining dietary energy from food consumed away from home is substantially higher than the cost of dietary energy from food consumed at home.
 
-- National Statistical Offices;
-- HIES and household survey practitioners;
-- food security and nutrition analysts;
-- food systems analysts;
-- researchers working with household consumption and expenditure data;
-- organisations designing or supporting household consumption surveys; and
-- practitioners interested in improving the measurement of food consumed away from home.
+Among the principal findings:
 
-The materials document the approach implemented in Samoa and may also serve as practical resources for the design of similar survey experiments elsewhere.
+- the average ratio of the cost per calorie consumed away from home to the cost per calorie consumed at home was **2.88** in the experiment;
+- the results suggest that the adjustment factor previously used to estimate dietary energy consumed away from home from HIES expenditure data is too low for Samoa;
+- using the experiment-derived approach, FAFH was estimated to contribute approximately **320 kcal per capita per day**, or **13% of total dietary energy consumption**, while accounting for approximately **20% of total food expenditure**; and
+- the choice of method used to estimate dietary energy consumed away from home can materially affect estimates of food consumption, poverty and the **Prevalence of Undernourishment (SDG indicator 2.1.1)**.
 
-> **Important:** The instruments were developed specifically for the Samoa context. Users considering their application in other countries should adapt the instruments to local food consumption patterns, terminology, food environments, survey designs and analytical requirements.
+Because of implementation challenges and the possibility that some FAFH consumption was missed, particularly consumption associated with Sunday *To'onai*, the experiment does **not** establish a definitive adjustment factor for the Pacific region.
 
----
-
-## Presentations
-
-Presentations and other dissemination materials from the Samoa FAFH Experiment will be added to this repository as they become available.
-
-These will include presentations on the design of the experiment, analytical findings and lessons for improving the measurement of food away from home in household surveys.
+The report therefore recommends further research in other Pacific Island countries and territories. In the interim, its findings suggest that an adjustment factor **close to 2** may be more appropriate than the lower factors previously used when estimating dietary energy consumed away from home from HIES data.
 
 ---
 
-## Using and citing these materials
+## Lessons learned
 
-Users are encouraged to appropriately acknowledge the organisations and contributors responsible for the Samoa FAFH Experiment when using or adapting resources from this repository.
+The experiment also generated practical lessons for future FAFH data collection.
 
-A recommended citation for the repository and associated materials will be provided as the project documentation is finalised.
+In particular:
 
-When adapting individual instruments, users should also retain any acknowledgements, attribution or copyright information contained within the original documents.
+- collecting detailed individual FAFH consumption through a diary is feasible, but imposes a substantial burden on respondents and field staff;
+- visual portion-size aids can provide useful information for converting reported foods into standard quantities;
+- complementary approaches such as web searches, crowdsourcing, stakeholder consultation and physical visits can help construct a locally relevant FAFH food and meal frame;
+- informal food consumption and culturally important events need to be explicitly considered when designing FAFH measurement systems;
+- instruments should be fully piloted before fieldwork wherever possible; and
+- detailed coding protocols and routine data-quality monitoring are important when collecting complex food and portion information.
+
+These experiences can inform the development and testing of more efficient FAFH collection approaches in future Pacific HIES.
+
+---
+
+## Presentations and further research
+
+This repository will continue to be updated with dissemination and research outputs arising from the Samoa FAFH Experiment.
+
+Planned and forthcoming materials include work examining:
+
+- patterns and determinants of food-away-from-home consumption in Samoa;
+- the performance of the HIES 7-day FAFH recall module;
+- alternative approaches for estimating dietary energy consumed away from home;
+- implications of FAFH estimation for poverty and food-security statistics; and
+- lessons for future HIES design and food data collection in Pacific Island countries and territories.
+
+Presentations from the experiment will also be added to this repository as they become available.
+
+---
+
+## Reuse of the instruments
+
+The resources are made available to support **National Statistical Offices, survey practitioners, researchers, food security and nutrition analysts, and development partners** interested in improving the measurement of food consumed away from home.
+
+The instruments document approaches developed specifically for the Samoa context. Users wishing to implement similar approaches elsewhere should adapt the materials to:
+
+- local foods and food environments;
+- cultural and institutional settings;
+- locally relevant measurement units and portion sizes;
+- survey design and fieldwork arrangements; and
+- national analytical requirements.
+
+The materials should therefore be considered resources for **adaptation rather than instruments that can necessarily be transferred unchanged to another setting**.
+
+---
+
+## Citation
+
+The main report should be cited as:
+
+> Troubat, N., Sharp, M. and Hennemann, L. (2025). *Samoa Food Away From Home (FAFH) – Innovative Experiment Report*. Noumea, New Caledonia: Pacific Community.
+
+Users adapting or reproducing individual materials from this repository should acknowledge the **Samoa Bureau of Statistics (SBS)** and the **Pacific Community (SPC)** as appropriate.
 
 ---
 
 ## Partners and acknowledgements
 
-The Samoa FAFH Experiment was implemented through collaboration between the **Samoa Bureau of Statistics (SBS)** and the **Pacific Community (SPC)**, with technical contributions from partners and experts involved in the design, implementation and analysis of the experiment.
+The experiment was **led by the Samoa Bureau of Statistics (SBS)**, with the **Pacific Community (SPC)** as the lead technical assistance provider.
 
-We gratefully acknowledge the financial support of the Australian Government through the Australian Centre for International Agricultural Research (FIS 2022/121) and the Samoa Tautai – Governance for Economic Growth Program, and the World Bank (P169122).
+The design and implementation benefited from contributions from specialists and organisations working in household surveys, food security, poverty statistics, nutrition and dietary assessment.
 
-Additional information on project partners, funding and acknowledgements is provided in the experiment report.
+Financial support for the experiment was provided by the **Government of Samoa**, the **Pacific Community**, the **World Bank (P169122)**, the **Australian Centre for International Agricultural Research (FIS 2018/155)**, and the **Government of Australia** through the Australian High Commission to Samoa and the Tautai programme.
 
----
-
-## Future additions
-
-This repository will continue to be updated as dissemination materials become available. Planned additions include:
-
-- presentations;
-- methodological summaries;
-- analytical findings;
-- lessons learned from implementation; and
-- recommendations for future measurement of food away from home in household surveys.
+Full acknowledgements are provided in the experiment report.
 
 ---
 
 ## Contact
 
-For further information about the Samoa FAFH Experiment or the application of these materials to household survey and food consumption measurement, please contact:
+For further information on the Samoa FAFH Experiment or the application of these materials to household surveys and food consumption measurement, please contact:
 
 **Statistics for Development Division**  
 **Pacific Community (SPC)**  
 https://sdd.spc.int/
 
+or
+
+**Samoa Bureau of Statistics (SBS)**  
+https://www.sbs.gov.ws/
+
 ---
 
-## Licence
+## Copyright and permissions
 
-Please refer to the licence associated with this repository and to any copyright or licensing information provided within individual resources before reproducing or adapting the materials.
+The experiment report and associated materials are subject to the copyright and reproduction conditions specified in the respective publications.
 
-Where materials have been produced jointly with partner organisations, the relevant rights and attribution requirements should be respected.
+Users should consult the copyright statement within each resource before reproducing, translating or adapting the material. Where materials have been jointly developed or incorporate third-party material, the applicable attribution and permission requirements should also be observed.
